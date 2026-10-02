@@ -1,0 +1,5 @@
+node_modules
+dist
+test-results
+openapi.json
+src/client/schema.gen.ts
